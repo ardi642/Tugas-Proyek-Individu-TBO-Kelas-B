@@ -35,7 +35,7 @@ while True:
     print()
     ulang = input("Apakah ingin memvalidasi nama domain lagi ? (y/t) : ")
 
-    if (ulang == "y" or ulang == 'Y"):
+    if (ulang == "y"):
         # os.system("cls")
         print()
         continue
